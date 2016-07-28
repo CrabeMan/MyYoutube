@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyYoutube</string>
+
+    <string name="transition_video_picture">video_transition:PICTURE</string>
+    <string name="transition_video_tile">video_transition:TITLE</string>
+    <string name="transition_video_description">video_transition:DESCRIPTION</string>
+</resources>
